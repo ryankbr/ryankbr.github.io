@@ -1,2 +1,10 @@
 # ryankbr.github.io
-My personal website
+
+my personal website
+
+built using:
+- html & css
+  - sass
+- javascript
+  - react
+ - github pages
