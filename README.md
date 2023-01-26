@@ -1,6 +1,6 @@
 # ryankbr.github.io
 
-my personal website
+my personal website: https://ryankbr.github.io/
 
 built using:
 - html & css
