@@ -302,6 +302,7 @@ fieldset[disabled] .btn-theme {
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .social-icons:hover {
